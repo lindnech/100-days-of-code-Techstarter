@@ -13,5 +13,12 @@
 
 **Heutiger Fortschritt** Recherche
 
-**Gedanken:** Ich habe recherchiert was es über mein gewhltes Theme bereits gibt und was der Inhalt sein sollte was zu beachten ist . Was möchte ich inhaltlich einbinden.
+**Gedanken:** Ich habe recherchiert was es über mein gewhltes Theme bereits gibt und was der Inhalt sein könnte und was zu beachten ist . Was möchte ich inhaltlich einbinden.
+
+### Tag 2: 9. September 2023
+(Tag 2 nach Verhinderung und Urlaub neu Start des Projektes)
+
+**Heutiger Fortschritt** Recherche und Ordnerstruktur erstellen
+
+**Gedanken:** Ich habe den Inhalt nochmal überdacht, und angefangen in Visual Studio Code die Ordnerstruktur zu erstellen, ich möchte mit Pug arbeiten.
 
