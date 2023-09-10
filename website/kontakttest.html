@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formular</title>
+    <link rel="stylesheet" href="impressum.css">
+</head>
+<body>
+    <nav>
+        
+      </nav>
+<hr>
+  
+<div class="kontakt1">
+    <hr>
+    <h1 class="h1">Kontaktformular</h1>
+    <hr>
+    <form action="mailto:test@gmail.com"subject="KontaktformularMail Kunde"  method="POST" enctype="text/plain">
+        <!-- <table>    
+            <tr><br>
+                <tr><label for="input-field">Ihr Name: </label></tr><br>
+                <tr><input type="text" id="Name" name="Name"></tr>
+            </tr><br>
+            <br>
+            <tr>
+                <tr><label for="input-field">Ihre Email:</label></tr><br>
+                <tr><input type="text" id="input-field" name="Email"></tr>
+            </tr><br>
+            <tr>
+                <td><label for="nachricht">Ihre nachricht an mich:</label></td></tr><br>
+            <tr><td><textarea name="nachricht" id="nachricht" cols="30" rows="10"></textarea></td>
+            </tr>    <br>
+            <tr>
+                <a href="mailto:test@gmail.com" target="_blank">
+                    <button type="button">E-Mail senden</button>
+                </a> -->
+<!-- Versuch 2 inputs werden in das standart programm uebertragen -->
+                Name:<br>
+                <input type="text" name="name"><br>
+                E-Mail:<br>
+                <input type="text" name="mail"><br>
+                Kommentar:<br>
+                <textarea name="comment" rows="10" cols="30"></textarea><br><br>
+                <input type="submit" value="Senden">
+              </form>
+                <!-- <td><button class="b1" type="submit">Nachricht Senden</button></td>
+                    </button> -->
+            </tr>
+<!--Versuch 3 eine vordefinierte Betreff zeile wird ins standart programm uebertragen -->
+            <a href="mailto:test@gmail.com?subject=KontaktformularMail Kunde" target="_blank">
+                <button type="button">E-Mail senden</button>
+            </a>
+            
+        </table>
+</div>
+
+<hr>
+<br>
+
+    <div class="home-link">
+        <a href="Kontakttest.html">Anfang der Seite</a>
+    </div>
+    <style>
+        .home-link {
+            position: fixed;
+            bottom: 0;
+            text-align: center;
+            width: 100%;
+            padding: 10px 0;
+            background-color: #eee;
+        }
+    </style>
+</body>
+</html>
