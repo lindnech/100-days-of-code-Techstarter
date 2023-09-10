@@ -27,7 +27,7 @@
 
 **Heutiger Fortschritt** Kontaktformular getestet
 
-**Gedanken:** Ich habe ein altes kontaktformular das ich früher bereits gebaut habe nochmal den code verinnerlicht und mir verschiedene Methoden des codes getestet wie beim klicken des senden button zb ein standart email programm geoeffen wird, oder ein neuer tab um webseitige mail anbieter wie google zu verwenden. des weiteren habe ich den code erweitert-> es gibt nun ein Namens input ein Email input und eine textarea und sobald der senden button getätigt wird werden die inputs automatisch ins standart email programm als text eingefügt auch einen vordefinierte Betreff zeile.
+**Gedanken:** Ich habe ein altes Kontaktformular, das ich früher bereits gebaut habe, noch einmal durchgearbeitet und den Code verinnerlicht. Ich habe verschiedene Methoden des Codes getestet, wie zum Beispiel das Öffnen eines Standard-E-Mail-Programms beim Klicken auf den Senden-Button oder das Öffnen eines neuen Tabs, um webbasierte Mail-Anbieter wie Google zu verwenden. Des Weiteren habe ich den Code erweitert: Es gibt nun ein Eingabefeld für den Namen, ein Eingabefeld für die E-Mail und eine Textarea. Sobald der Senden-Button betätigt wird, werden die Eingaben automatisch in das Standard-E-Mail-Programm als Text eingefügt. Auch eine vordefinierte Betreffzeile ist nun vorhanden.
 
 **Link zur Arbeit:** [Kontaktformular] https://github.com/lindnech/100-days-of-code-Techstarter/blob/master/website/kontakttest.html
 
