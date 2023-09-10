@@ -17,7 +17,17 @@
 **Gedanken:** Ich habe recherchiert, was es über mein ausgewähltes Thema bereits gibt, welcher Inhalt in Frage kommen könnte und was zu beachten ist. Ich überlege, welche Inhalte ich einbinden möchte.
 
 
-### Tag 2: 9. September 2023
+
+### Tag 2: 8. September 2023
+
+**Heutiger Fortschritt** Website-Strukturplanung
+
+**Gedanken:** Nach der Recherche und Überlegung der ersten Tage, habe ich eine Website-Strukturplanung in dem Tool Draw.io erstellt und dort meine Informationen und Ideen visualisiert.
+
+**Link zur Arbeit:** [Ordnerstruktur] https://github.com/lindnech/100-days-of-code-Techstarter/blob/master/websiteplanung.png
+
+
+### Tag 3: 9. September 2023
 (Tag 2 nach Verhinderung und Urlaub neu Start des Projektes)
 
 **Heutiger Fortschritt** Recherche und Ordnerstruktur erstellen
@@ -27,7 +37,7 @@
 **Link zur Arbeit:** [Ordnerstruktur] https://github.com/lindnech/100-days-of-code-Techstarter/tree/master/website
 
 
-### Tag 3: 10. September 2023
+### Tag 4: 10. September 2023
 
 **Heutiger Fortschritt** Kontaktformular getestet
 
