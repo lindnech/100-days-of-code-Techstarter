@@ -5,7 +5,8 @@
 
 **Heutiger Fortschritt**: Ideenfindung
 
-**Gedanken:** Ich habe mir schwer getan ein Thema zu finden, nach langen habe ich 2 Ideen fokusiert, 1. Social-Media-Website, wobei ich denke das wird am anfang zu umfangreich, also entschloss ich mich für 2. eine Kita Info Webanwendung mit der option das ganze eventuell irgendwann in eine App zu packen.
+**Gedanken:** Ich hatte Schwierigkeiten, ein Thema zu finden. Nach langer Überlegung habe ich mich auf zwei Ideen konzentriert: 1. Eine Social-Media-Website, wobei ich denke, dass dies zu Beginn zu umfangreich sein könnte. Daher habe ich mich für die 2. Option entschieden: eine Kita-Info-Webanwendung mit der Möglichkeit, diese eventuell irgendwann in eine App zu verwandeln.
+
 **Link zur Arbeit:** [Kita Info](https://github.com/lindnech/100-days-of-code-Techstarter.git)
 
 
@@ -13,17 +14,20 @@
 
 **Heutiger Fortschritt** Recherche
 
-**Gedanken:** Ich habe recherchiert was es über mein gewhltes Theme bereits gibt und was der Inhalt sein könnte und was zu beachten ist . Was möchte ich inhaltlich einbinden.
+**Gedanken:** Ich habe recherchiert, was es über mein ausgewähltes Thema bereits gibt, welcher Inhalt in Frage kommen könnte und was zu beachten ist. Ich überlege, welche Inhalte ich einbinden möchte.
+
 
 ### Tag 2: 9. September 2023
 (Tag 2 nach Verhinderung und Urlaub neu Start des Projektes)
 
 **Heutiger Fortschritt** Recherche und Ordnerstruktur erstellen
 
-**Gedanken:** Ich habe den Inhalt nochmal überdacht, und angefangen in Visual Studio Code die Ordnerstruktur zu erstellen, ich möchte mit Pug arbeiten.
+**Gedanken:** Ich habe den Inhalt noch einmal überdacht und begonnen, die Ordnerstruktur in Visual Studio Code zu erstellen. Ich möchte mit Pug arbeiten.
+
+**Link zur Arbeit:** [Ordnerstruktur] https://github.com/lindnech/100-days-of-code-Techstarter/tree/master/website
+
 
 ### Tag 3: 10. September 2023
-
 
 **Heutiger Fortschritt** Kontaktformular getestet
 
